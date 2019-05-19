@@ -3,3 +3,4 @@ hain
  2 files changed, 1 insertion(+)
  create mode 100644 ++.txt
  create mode 100644 newfile.txt
+l
